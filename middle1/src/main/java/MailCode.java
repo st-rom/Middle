@@ -5,9 +5,9 @@ public enum MailCode {
             case BIRTHDAY:
                 return "Happy Birthday";
             case INVITATION:
-                return "Welcome to new event";
+                return "U were invited to the new event";
             case USEFUL_INFO:
-                return "maybe u wana know this";
+                return "maybe u wanna know this";
             case USER_FRIENDLY:
                 return "it's me, mario!";
             case SPAM:

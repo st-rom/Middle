@@ -5,7 +5,7 @@ public class Main {
         MailCode ml2 = MailCode.SPAM;
         Client client2 = new Client("Jessica", 17, Sex.WOMAN, "bogocoder@ukr.net");
         MailCode ml3 = MailCode.BIRTHDAY;
-        String cont1 = "Hey budy,\n thx for da gift";
+        String cont1 = "Hey m8,\n thx for da gift";
         String cont2 = "Btw, u might wanna try this www.randomstaff.com";
         String cont3 = "Hey bae, happy bday";
         MailBox box = new MailBox();
